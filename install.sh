@@ -13,6 +13,7 @@ sudo apt install -y python3-pip
 sudo apt install -y python3-pygame
 sudo apt install -y python3-vlc
 sudo apt install -y python3-flask
+sudo apt install -y python3-flask-cors
 sudo apt install -y gunicorn
 sudo apt install -y tmux
 sudo apt install -y neovim
